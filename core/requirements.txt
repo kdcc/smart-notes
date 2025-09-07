@@ -1,0 +1,27 @@
+# 智能文本分析系统依赖包
+
+# 核心框架
+langchain>=0.3.20
+langchain-community>=0.3.20
+langchain-text-splitters>=0.3.9
+
+# 向量数据库
+qdrant-client>=1.15.0
+
+# 嵌入模型和深度学习
+sentence-transformers>=5.0.0
+torch>=2.7.0
+transformers>=4.54.0
+
+# 本地模型支持
+ollama>=0.5.1
+
+# 数据处理
+numpy>=2.3.0
+scikit-learn>=1.7.0
+
+# 中文处理
+jieba>=0.42.1
+
+# 工具库
+tqdm>=4.67.0
