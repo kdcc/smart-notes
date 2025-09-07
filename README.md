@@ -165,7 +165,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r core/requirements.txt
 
 ## 📖 文档
 
-- [详细说明](docs/README.md) - 完整的功能介绍和使用指南
+- [详细说明](项目架构图与流程图.md) - 完整的功能介绍和使用指南
 - [部署指南](docs/DEPLOYMENT.md) - 生产环境部署说明
 
 ## ✨ 主要特性
